@@ -22,6 +22,7 @@
 ### vim
 
 * [simple config file](vim/simple-config.md)
+* [find and replace commands](vim/find-and-replace.md)
 
 ### About
 
