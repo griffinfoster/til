@@ -2,6 +2,8 @@
 
 > Today I Learned
 
+---
+
 ## Categories
 
 * [bash](#bash)
@@ -40,6 +42,7 @@
 * [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 * [Increment and Decrement Numbers](vim/increment-and-decrement-numbers.md)
 * [Sort Alphabetically](vim/sort-alphabetically.md)
+* [Easy file diffing](vim/diffing-from-the-command-line.md)
 
 ### About
 
