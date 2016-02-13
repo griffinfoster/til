@@ -20,4 +20,8 @@ set -s escape-time 0
 
 # Start numbering at 1
 set -g base-index 1
+
+# enable vi mode
+setw -g mode-keys vi
 ```
+

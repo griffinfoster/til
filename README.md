@@ -31,12 +31,29 @@
 * [rsync: transfer specific filetype with custom SSH port](linux/rsync-specific-file-non-standard-port.md)
 * [ssh: compression for X display](linux/ssh-x-compression.md)
 * [top: memory usage ordering](linux/top-memory-usage-order.md)
+* [Check Ubuntu version](linux/check-ubuntu-version.md)
+* [All The Environment Variables](linux/all-the-environment-variables.md)
+* [Check If A Port Is In Use](linux/check-if-a-port-is-in-use.md)
+* [Copying File Contents To System Paste Buffer](linux/copying-file-contents-to-system-paste-buffer.md)
+* [Do Not Overwrite Existing Files](linux/do-not-overwrite-existing-files.md)
+* [Find Newer Files](linux/find-newer-files.md)
+* [Grep For Files Without A Match](linux/grep-for-files-without-a-match.md)
+* [Grep For Multiple Patterns](linux/grep-for-multiple-patterns.md)
+* [Hexdump A Compiled File](linux/hexdump-a-compiled-file.md)
+* [Kill a frozen SSH session](linux/kill-a-frozen-ssh-session.md)
 
 ### tmux
 
 * [Basics](tmux/basics.md)
 * [Simple config file](tmux/simple-config.md)
 * [Set display for session over SSH](tmux/display-over-ssh.md)
+* [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
+* [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
+* [Jumping Between Sessions](tmux/jumping-between-sessions.md)
+* [List All Key Bindings](tmux/list-all-key-bindings.md)
+* [Organizing Windows](tmux/organizing-windows.md)
+* [Rename The Current Session](tmux/rename-the-current-session.md)
+* [Swap Split Panes](tmux/swap-split-panes.md)
 
 ### vim
 
@@ -48,6 +65,17 @@
 * [Increment and decrement numbers](vim/increment-and-decrement-numbers.md)
 * [Sort alphabetically](vim/sort-alphabetically.md)
 * [Easy file diffing](vim/diffing-from-the-command-line.md)
+* [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
+* [Delete Every Other Line](vim/delete-every-other-line.md)
+* [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
+* [Word-based Movement](vim/word-based-movement.md)
+* [Highlighting Search Matches](vim/highlighting-search-matches.md)
+* [Increment All The Numbers](vim/increment-all-the-numbers.md)
+* [Joining Lines Together](vim/joining-lines-together.md)
+* [Repeating Characters](vim/repeating-characters.md)
+* [Searching For Hex Digits](vim/searching-for-hex-digits.md)
+* [Swapping Split Windows](vim/swapping-split-windows.md)
+* [Tabs To Spaces](vim/tabs-to-spaces.md)
 
 ### About
 
