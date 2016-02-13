@@ -25,6 +25,8 @@
 * [List most git commands](git/list-most-git-commands.md)
 * [Renaming a branch](git/renaming-a-branch.md)
 * [Untrack a file without deleting it](git/untrack-a-file-without-deleting-it.md)
+* [Grep over Commit Messages](git/grep-over-commit-messages.md)
+* [View History of a File](git/view-history-of-a-file.md)
 
 ### linux
 
@@ -41,6 +43,11 @@
 * [Grep For Multiple Patterns](linux/grep-for-multiple-patterns.md)
 * [Hexdump A Compiled File](linux/hexdump-a-compiled-file.md)
 * [Kill a frozen SSH session](linux/kill-a-frozen-ssh-session.md)
+* [Helpful Networking Commands](linux/helpful-networking-commands.md)
+* [Cat and Splat](linux/cat-and-splat.md)
+* [Using awk to Debug $PATH](linux/using-awk-to-debug-path.md)
+* [Create with Timestamp](linux/create-with-timestamp.md)
+* [Moving/Copying with Curly Braces](linux/moving-copying-with-curly-braces.md)
 
 ### tmux
 
@@ -76,6 +83,13 @@
 * [Searching For Hex Digits](vim/searching-for-hex-digits.md)
 * [Swapping Split Windows](vim/swapping-split-windows.md)
 * [Tabs To Spaces](vim/tabs-to-spaces.md)
+* [Spell Check in vim](vim/spell-check-in-vim.md)
+* [Confirm each find replace in vim](vim/spell-check-in-vim.md)
+* [Format Long Lines to Text Width](vim/format-long-lines-to-text-width.md)
+* [Set Syntax Highlighting Manually](vim/set-syntax-highlighting-manually.md)
+* [Set Your Color Scheme](vim/set-your-color-scheme.md)
+* [Incremental Searching](vim/incremental-searching.md)
+* [Re-indenting Your Code](vim/reindenting-your-code.md)
 
 ### About
 
