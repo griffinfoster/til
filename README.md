@@ -20,6 +20,11 @@
 
 * [Undo a git mistake](git/undo-a-git-mistake.md)
 * [Git log since](git/git-log-since.md)
+* [Checkout old version of a file](git/checkout-old-version-of-a-file.md)
+* [Dry runs in git](git/dry-runs-in-git.md)
+* [List most git commands](git/list-most-git-commands.md)
+* [Renaming a branch](git/renaming-a-branch.md)
+* [Untrack a file without deleting it](git/untrack-a-file-without-deleting-it.md)
 
 ### linux
 
@@ -37,11 +42,11 @@
 
 * [Simple config file](vim/simple-config.md)
 * [Find and replace commands](vim/find-and-replace.md)
-* [Change Inner Tag Block](vim/change-inner-tag-block.md)
-* [Current Value of a Setting](vim/current-value-of-a-setting.md)
-* [Find and Replace Across Files](vim/find-and-replace-across-files.md)
-* [Increment and Decrement Numbers](vim/increment-and-decrement-numbers.md)
-* [Sort Alphabetically](vim/sort-alphabetically.md)
+* [Change inner tag block](vim/change-inner-tag-block.md)
+* [Current value of a setting](vim/current-value-of-a-setting.md)
+* [Find and replace across files](vim/find-and-replace-across-files.md)
+* [Increment and decrement numbers](vim/increment-and-decrement-numbers.md)
+* [Sort alphabetically](vim/sort-alphabetically.md)
 * [Easy file diffing](vim/diffing-from-the-command-line.md)
 
 ### About
