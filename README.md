@@ -48,6 +48,7 @@
 * [Using awk to Debug $PATH](linux/using-awk-to-debug-path.md)
 * [Create with Timestamp](linux/create-with-timestamp.md)
 * [Moving/Copying with Curly Braces](linux/moving-copying-with-curly-braces.md)
+* [Convert FLAC to mp3](linux/convert-flac-to-mp3.md)
 
 ### tmux
 
