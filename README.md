@@ -7,6 +7,7 @@
 ## Categories
 
 * [bash](#bash)
+* [git](#git)
 * [linux](#linux)
 * [tmux](#tmux)
 * [vim](#vim)
@@ -27,6 +28,7 @@
 * [Untrack a file without deleting it](git/untrack-a-file-without-deleting-it.md)
 * [Grep over Commit Messages](git/grep-over-commit-messages.md)
 * [View History of a File](git/view-history-of-a-file.md)
+* [Resolve Merge Conflicts](git/resolve-merge-conflicts.md)
 
 ### linux
 
