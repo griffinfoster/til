@@ -29,6 +29,7 @@
 * [Grep over Commit Messages](git/grep-over-commit-messages.md)
 * [View History of a File](git/view-history-of-a-file.md)
 * [Resolve Merge Conflicts](git/resolve-merge-conflicts.md)
+* [Checkout File from Branch to Revert Edits](git/checkout_file_from_branch.md)
 
 ### linux
 
